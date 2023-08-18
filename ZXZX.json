@@ -1,0 +1,66 @@
+{
+   "files": [    
+
+
+
+{
+         "name": "VIP-01-AIS",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/GSH/main/NET-AIS-01.ovpn"
+      }
+,
+{
+         "name": "VIP-01-DTAC",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/GSH/main/NET-DTAC-01.ovpn"
+      }
+,
+{
+         "name": "VIP-01-TRUE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/GSH/main/NET-TRUE-01.ovpn"
+      }
+,
+{
+         "name": "VIP-02-AIS",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/GSH/main/NET-AIS-02.opvn"
+      }
+,
+{
+         "name": "VIP-02-DTAC",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/GSH/main/NET-DTAC-02.ovpn"
+      }
+,
+{
+         "name": "VIP-02-TRUE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/GSH/main/NET-TRUE-02.ovpn"
+      }
+,
+{
+         "name": "VIP-03-AIS",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/GSH/main/NET-AIS-03.ovpn"
+      }
+,
+{
+         "name": "VIP-03-DTAC",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/GSH/main/NET-DTAC-03.ovpn"
+      }
+,
+{
+         "name": "VIP-03-TRUE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/GSH/main/NET-TRUE-03.ovpn"
+      }
+
+   ],
+"message":"
+🐧บริการเน็ต🐧
+[แบบรายปี]
+
+📦รองรับทุกการใช้งาน
+🔖ทุกเครือข่าย
+📗AIS เอไอเอส [ต้องมีโปร]
+📘DTAC ดีเทค  [ไม่ต้องมีโปร]
+📕TRUE ทรูมูฟ [ไม่ต้องมีโปร]
+
+
+\n\nเวอร์ชั่นไฟล์:1",
+"title":"New Update File" ,
+   "version":1
+}
