@@ -47,6 +47,21 @@
          "name": "VIP-03-TRUE",
          "url": "https://raw.githubusercontent.com/ANOFZXX/GSH/main/NET-TRUE-03.ovpn"
       }
+,
+{
+         "name": "VIP-04-AIS",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/GSH/main/NET-AIS-04.ovpn"
+      }
+,
+{
+         "name": "VIP-04-DTAC",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/GSH/main/NET-DTAC-04.ovpn"
+      }
+,
+{
+         "name": "VIP-04-TRUE",
+         "url": "https://raw.githubusercontent.com/ANOFZXX/GSH/main/NET-TRUE-04.ovpn"
+      }
 
    ],
 "message":"
@@ -62,5 +77,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":2
+   "version":3
 }
